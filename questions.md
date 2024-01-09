@@ -51,6 +51,7 @@
 9. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
 
    \`\`\`
+   'Branching' in GitHub allows multiple developers to work on different aspects of a project simultaneously, keeping their changes separate until they are ready to be merged, improving collaboration and code quality.
    \`\`\`
 
 10. **What is GitHub Pages, and how can it be used to host web pages?**
