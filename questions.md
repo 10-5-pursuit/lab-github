@@ -51,6 +51,7 @@
 11. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
 
    \`\`\`
+   A branch allows you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. You would     typically create a new branch off of your original branch.
    \`\`\`
 
 11. **What is GitHub Pages, and how can it be used to host web pages?**
