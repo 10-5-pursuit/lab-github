@@ -39,6 +39,7 @@
 7. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
 
    \`\`\`
+   Microsoft and they stated at the time of the acquisition that it intended to maintain GitHub as an open platform for all developers and to provide additional resources to help GitHub grow and improve its services.
    \`\`\`
 
 8. **What is a 'repository' in GitHub, and what are its key components?**
