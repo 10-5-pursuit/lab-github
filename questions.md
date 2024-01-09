@@ -33,6 +33,7 @@
 6. **What is GitHub Actions, and how is it used in software development?**
 
    \`\`\`
+   GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your build, test, and deployment pipeline. You can create workflows that build and test every pull request to your repository, or deploy merged pull requests to production.
    \`\`\`
 
 7. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
