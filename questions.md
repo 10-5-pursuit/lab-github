@@ -39,6 +39,7 @@
 7. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
 
    \`\`\`
+   Microsoft acquired GitHub in 2018, leading to enhanced integration with Microsoft's tools and services and continued growth of GitHub as a popular platform.
    \`\`\`
 
 8. **What is a 'repository' in GitHub, and what are its key components?**
