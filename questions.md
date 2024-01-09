@@ -34,8 +34,7 @@
 
 9. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
 
-   \`\`\`
-   \`\`\`
+   Branching allows you to work on a specific portion of a repository. Its important for collaborative projects as you can break up items into branches to work on without editing the main file unless every comes together to look over a pull request. You can branch a part of the repository that needs bugfixing for example then make a pull request to implement your fixes. Checking it with your peers with a github action all before pushing it to the main branch once it meets all testing.
 
 10. **What is GitHub Pages, and how can it be used to host web pages?**
 
