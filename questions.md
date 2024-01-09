@@ -23,8 +23,7 @@
 
 6. **What is GitHub Actions, and how is it used in software development?**
 
-   \`\`\`
-   \`\`\`
+  GitHub Actions is a feature for automating workflows and CI/CD in software development, helping with tasks like building, testing, and deploying code.
 
 7. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
 
