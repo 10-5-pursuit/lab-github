@@ -37,25 +37,35 @@ A fork is a new repository that shares code and visibility settings with the ori
 
 6. **What is GitHub Actions, and how is it used in software development?**
 
+GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your build, test, and deployment pipeline. You can create workflows that build and test every pull request to your repository, or deploy merged pull requests to production.
+
    \`\`\`
    \`\`\`
 
 7. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
+
+On June 4, 2018, Microsoft announced its intent to acquire GitHub for US$7.5 billion (~$8.65 billion in 2022). The deal closed on October 26, 2018. GitHub continued to operate independently as a community, platform and business.
 
    \`\`\`
    \`\`\`
 
 8. **What is a 'repository' in GitHub, and what are its key components?**
 
+A repository is the most basic element of GitHub. It's a place where you can store your code, your files, and each file's revision history. Repositories can have multiple collaborators and can be either public or private.
+
    \`\`\`
    \`\`\`
 
 9. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
 
+Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. You always create a branch from an existing branch. Typically, you might create a new branch from the default branch of your repository.
+
    \`\`\`
    \`\`\`
 
 10. **What is GitHub Pages, and how can it be used to host web pages?**
+
+GitHub Pages publishes any static files that you push to your repository. You can create your own static files or use a static site generator to build your site for you. You can also customize your own build process locally or on another server.
 
     \`\`\`
     \`\`\`
