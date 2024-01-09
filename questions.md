@@ -1,31 +1,52 @@
-# Questions
+# GitHub Practice Questions
 
-What year did Brendan Eich create JavaScript?
+1. **When was GitHub first launched, and who were its original founders?**
 
-```
+   \`\`\`
+   \`\`\`
 
-```
+2. **What is a 'pull request' in the context of GitHub, and how is it commonly used?**
 
-What does "ES6" stand for?
+   \`\`\`
+   \`\`\`
 
-```
+3. **Can you explain the difference between 'git' and 'GitHub'?**
 
-```
+   \`\`\`
+   \`\`\`
 
-What company famously used the phrase "Don't be evil" in their code of conduct?
+4. **What is the significance of the 'README.md' file in a GitHub repository?**
 
-```
+   \`\`\`
+   \`\`\`
 
-```
+5. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
 
-What English mathematician and writer is often regarded as the first computer programmer?
+   \`\`\`
+   \`\`\`
 
-```
+6. **What is GitHub Actions, and how is it used in software development?**
 
-```
+   \`\`\`
+   \`\`\`
 
-Who is the "Turing machine" named after?
+7. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
 
-```
+   \`\`\`
+   \`\`\`
 
-```
+8. **What is a 'repository' in GitHub, and what are its key components?**
+
+   \`\`\`
+   \`\`\`
+
+9. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
+
+   \`\`\`
+   \`\`\`
+
+10. **What is GitHub Pages, and how can it be used to host web pages?**
+
+    \`\`\`
+    \`\`\`
+
