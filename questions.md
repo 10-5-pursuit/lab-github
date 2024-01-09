@@ -15,29 +15,30 @@ Pull requests let you tell others about changes you've pushed to a branch in a r
 5. **Can you explain the difference between 'git' and 'GitHub'?**
 
    \`\`\`
+Git is a version control system that allows developers to track changes in their code. GitHub is a web-based hosting service for git repositories.
    \`\`\`
 
-6. **What is the significance of the 'README.md' file in a GitHub repository?**
-
-   \`\`\`
-   \`\`\`
-
-7. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
+7. **What is the significance of the 'README.md' file in a GitHub repository?**
 
    \`\`\`
    \`\`\`
 
-8. **What is GitHub Actions, and how is it used in software development?**
+8. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
 
    \`\`\`
    \`\`\`
 
-9. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
+9. **What is GitHub Actions, and how is it used in software development?**
 
    \`\`\`
    \`\`\`
 
-10. **What is a 'repository' in GitHub, and what are its key components?**
+10. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
+
+   \`\`\`
+   \`\`\`
+
+11. **What is a 'repository' in GitHub, and what are its key components?**
 
    \`\`\`
    \`\`\`
