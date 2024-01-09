@@ -26,8 +26,7 @@
 
 7. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
 
-   \`\`\`
-   \`\`\`
+   Microsoft acqquired GitHub in 2018 and its acquisition led to multiple other competitors coming up as people got anxious about what Microsoft would do with the platform, citing that nokia was a previous acquisition that was later ended.
 
 8. **What is a 'repository' in GitHub, and what are its key components?**
 
