@@ -33,9 +33,9 @@
    A GitHub 'repository' is a container for code and project assets, including source code, README.md, issues, pull requests, branches, actions, and settings.
    
 9. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
-   \`\`\`\`
+   
    'Branching' in GitHub allows multiple developers to work on different aspects of a project simultaneously, keeping their changes separate until they are ready to be merged, improving collaboration and code quality.
-   \`\`\`\`
+   
 10. **What is GitHub Pages, and how can it be used to host web pages?**
    \`\`\`\`
    GitHub Pages is a feature for hosting static websites from GitHub repositories, making it easy to create and share web content. Websites are automatically built and published from the repository's contents.
