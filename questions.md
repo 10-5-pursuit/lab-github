@@ -3,19 +3,19 @@
 1. **When was GitHub first launched, and who were its original founders?**
 
    \`\`\`
-Founding. Development of the GitHub platform began on October 19, 2007. The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon after it had been available for a few months as a beta release.
+   Founding. Development of the GitHub platform began on October 19, 2007. The site was launched in April 2008 by Tom Preston-Werner, Chris     Wanstrath, P. J. Hyett and Scott Chacon after it had been available for a few months as a beta release.
    \`\`\`
 
 3. **What is a 'pull request' in the context of GitHub, and how is it commonly used?**
 
    \`\`\`
-Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
+   Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you      can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base       branch.
    \`\`\`
 
 5. **Can you explain the difference between 'git' and 'GitHub'?**
 
    \`\`\`
-Git is a version control system that allows developers to track changes in their code. GitHub is a web-based hosting service for git repositories.
+   Git is a version control system that allows developers to track changes in their code. GitHub is a web-based hosting service for git         repositories.
    \`\`\`
 
 7. **What is the significance of the 'README.md' file in a GitHub repository?**
@@ -33,6 +33,7 @@ Git is a version control system that allows developers to track changes in their
 11. **What is GitHub Actions, and how is it used in software development?**
 
    \`\`\`
+   GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your build, test, and        deployment pipeline. You can create workflows that build and test every pull request to your repository, or deploy merged pull requests      to production.
    \`\`\`
 
 11. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
