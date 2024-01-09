@@ -25,9 +25,9 @@
    GitHub Actions is a feature for automating workflows and CI/CD in software development, helping with tasks like building, testing, and deploying code.
    
 7. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
-   \`\`\`\`
+   
    Microsoft acquired GitHub in 2018, leading to enhanced integration with Microsoft's tools and services and continued growth of GitHub as a popular platform.
-   \`\`\`\`
+   
 8. **What is a 'repository' in GitHub, and what are its key components?**
    \`\`\`\`
    A GitHub 'repository' is a container for code and project assets, including source code, README.md, issues, pull requests, branches, actions, and settings.
