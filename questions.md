@@ -37,6 +37,5 @@ Pull requests let you tell others about changes you've pushed to a branch in a r
 
 10. **What is GitHub Pages, and how can it be used to host web pages?**
 
-    \`\`\`
-    \`\`\`
+   Using GitHub Pages, you can create a website by simply publishing static HTML, JavaScript, and CSS files from GitHub's repository. Among the many benefits of the GitHub web hosting service, a few of the main ones are how simple and easy it is to use.
 
