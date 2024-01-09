@@ -20,32 +20,33 @@ Github was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. 
    Git is a version control system that lets you manage and keep track of your source code history. GitHub is a cloud-based hosting service that lets you manage Git repositories. If you have open-source projects that use Git, then GitHub is designed to help you better manage them.
    \`\`\`
 
-5. **What is the significance of the 'README.md' file in a GitHub repository?**
+4. **What is the significance of the 'README.md' file in a GitHub repository?**
+
+   \`\`\`
+   README.md files are intended to provide orientation for engineers browsing your code, especially first-time users. The README.md is likely the first file a reader encounters when they browse a directory that contains your code. In this way, it acts as a landing page for the directory.
+   \`\`\`
+
+7. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
 
    \`\`\`
    \`\`\`
 
-6. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
+8. **What is GitHub Actions, and how is it used in software development?**
 
    \`\`\`
    \`\`\`
 
-7. **What is GitHub Actions, and how is it used in software development?**
+9. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
 
    \`\`\`
    \`\`\`
 
-8. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
+10. **What is a 'repository' in GitHub, and what are its key components?**
 
    \`\`\`
    \`\`\`
 
-9. **What is a 'repository' in GitHub, and what are its key components?**
-
-   \`\`\`
-   \`\`\`
-
-10. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
+11. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
 
    \`\`\`
    \`\`\`
