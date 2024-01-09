@@ -38,7 +38,7 @@ Github was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. 
    GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your build, test, and deployment pipeline. You can create workflows that build and test every pull request to your repository, or deploy merged pull requests to production.
    \`\`\`
 
-11. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
+10. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
 
    \`\`\`
    Microsoft acquired GitHub in 2018. Microsoft is a developer-first company, and by joining forces with GitHub we strengthen our commitment to developer freedom, openness and innovation. The company also said that GitHub will run as an independent unit. Microsoft said the plan was to empower developers as well as bring its tools to new audiences.
@@ -47,10 +47,10 @@ Github was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. 
 11. **What is a 'repository' in GitHub, and what are its key components?**
 
    \`\`\`
-   
+   A repository is the most basic element of GitHub. It's a place where you can store your code, your files, and each file's revision history. Repositories can have multiple collaborators and can be either public or private.
    \`\`\`
 
-11. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
+12. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
 
    \`\`\`
    \`\`\`
