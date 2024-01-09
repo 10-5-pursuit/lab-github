@@ -2,8 +2,7 @@
 
 1. **When was GitHub first launched, and who were its original founders?**
 
-   \`\`\`
-   \`\`\`
+   GitHub first launched in April 10 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon.
 
 2. **What is a 'pull request' in the context of GitHub, and how is it commonly used?**
 
