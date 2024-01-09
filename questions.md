@@ -23,10 +23,14 @@ Git is a version control system that allows developers to track changes in their
 
 4. **What is the significance of the 'README.md' file in a GitHub repository?**
 
+README.md files are intended to provide orientation for engineers browsing your code, especially first-time users. The README.md is likely the first file a reader encounters when they browse a directory that contains your code.
+
    \`\`\`
    \`\`\`
 
 5. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
+
+A fork is a new repository that shares code and visibility settings with the original “upstream” repository. Forks are often used to iterate on ideas or changes before they are proposed back to the upstream repository, such as in open source projects or when a user does not have write access to the upstream repository.
 
    \`\`\`
    \`\`\`
