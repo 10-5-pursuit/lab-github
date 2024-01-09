@@ -15,8 +15,7 @@
 
 4. **What is the significance of the 'README.md' file in a GitHub repository?**
 
-   \`\`\`
-   \`\`\`
+ The 'README.md' file in a GitHub repository serves as project documentation, providing information on the project's purpose, usage, and installation instructions.
 
 5. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
 
