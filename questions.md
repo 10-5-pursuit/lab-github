@@ -20,27 +20,26 @@
 
    GitHub forking feature is used to make a copy of your own project in order to make edits to then request later down the line without editing the main project.
    
-7. **What is GitHub Actions, and how is it used in software development?**
+6. **What is GitHub Actions, and how is it used in software development?**
+
+   GitHub actions allow you to see what a repository would look like with pull requests in mind to see how the changes would be implemented before actually pushing them to the main branch. It could be useful in software development for pushing a test branch to work with and see if theres any bugs before having it take over the main branch.
+
+7. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
 
    \`\`\`
    \`\`\`
 
-8. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
+8. **What is a 'repository' in GitHub, and what are its key components?**
 
    \`\`\`
    \`\`\`
 
-9. **What is a 'repository' in GitHub, and what are its key components?**
+9. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
 
    \`\`\`
    \`\`\`
 
-10. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
-
-   \`\`\`
-   \`\`\`
-
-11. **What is GitHub Pages, and how can it be used to host web pages?**
+10. **What is GitHub Pages, and how can it be used to host web pages?**
 
     \`\`\`
     \`\`\`
