@@ -9,16 +9,19 @@
 2. **What is a 'pull request' in the context of GitHub, and how is it commonly used?**
 
    \`\`\`
+   Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
    \`\`\`
 
 3. **Can you explain the difference between 'git' and 'GitHub'?**
 
    \`\`\`
+   Git is a version control system that allows developers to track changes in their code. GitHub is a web-based hosting service for git repositories. In simple terms, you can use git without Github, but you cannot use GitHub without Git.
    \`\`\`
 
 4. **What is the significance of the 'README.md' file in a GitHub repository?**
 
    \`\`\`
+   README.md files are intended to provide orientation for engineers browsing your code, especially first-time users. The README.md is likely the first file a reader encounters when they browse a directory that contains your code. In this way, it acts as a landing page for the directory.
    \`\`\`
 
 5. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
