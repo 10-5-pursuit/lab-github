@@ -13,8 +13,7 @@ Pull requests let you tell others about changes you've pushed to a branch in a r
 
 4. **What is the significance of the 'README.md' file in a GitHub repository?**
 
-   \`\`\`
-   \`\`\`
+   Guidelines. README.md files are intended to provide orientation for engineers browsing your code, especially first-time users. The README.md is likely the first file a reader encounters when they browse a directory that contains your code. In this way, it acts as a landing page for the directory.
 
 5. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
 
