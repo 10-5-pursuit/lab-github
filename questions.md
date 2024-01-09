@@ -9,9 +9,9 @@
    A 'pull request' (PR) in GitHub is a way to propose changes to a repository. It allows developers to fork a repository, make changes, and then request that those changes be merged into the original repository after review.
    
 3. **Can you explain the difference between 'git' and 'GitHub'?**
-   \`\`\`\`
+   
    'Git' is a distributed version control system, while 'GitHub' is a web-based platform built around Git for hosting repositories, collaborating on projects, and managing code.
-   \`\`\`\`
+   
 4. **What is the significance of the 'README.md' file in a GitHub repository?**
    \`\`\`\`
    The 'README.md' file in a GitHub repository serves as project documentation, providing information on the project's purpose, usage, and installation instructions.
