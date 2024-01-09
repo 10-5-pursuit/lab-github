@@ -39,6 +39,7 @@
 11. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
 
    \`\`\`
+   Microsoft's acquisition of GitHub has received regulatory approval and is now official. Microsoft announced the completion of its $7.5       billion acquisition of the GitHub hosting and development service on October 26.
    \`\`\`
 
 11. **What is a 'repository' in GitHub, and what are its key components?**
