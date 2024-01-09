@@ -27,9 +27,10 @@ Git is a version control system that allows developers to track changes in their
 9. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
 
    \`\`\`
+   a copy of an existing repository in which the new owner disconnects the codebase from previous committers. it gives you a chance to work     on the code apart from the actual shared file. 
    \`\`\`
 
-10. **What is GitHub Actions, and how is it used in software development?**
+11. **What is GitHub Actions, and how is it used in software development?**
 
    \`\`\`
    \`\`\`
