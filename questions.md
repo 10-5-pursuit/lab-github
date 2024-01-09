@@ -38,6 +38,5 @@
 
 10. **What is GitHub Pages, and how can it be used to host web pages?**
 
-    \`\`\`
-    \`\`\`
+    Github pages is a tool that lets you make a website out of your repository with your code and info attatched
 
