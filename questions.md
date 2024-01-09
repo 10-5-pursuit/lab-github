@@ -2,6 +2,8 @@
 
 1. **When was GitHub first launched, and who were its original founders?**
 
+   Development of the GitHub platform began on October 19, 2007. The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon.
+   
    \`\`\`
    \`\`\`
 
