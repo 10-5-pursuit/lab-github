@@ -15,6 +15,7 @@
 3. **Can you explain the difference between 'git' and 'GitHub'?**
 
    \`\`\`
+   Git is a version control system to track changes in code while Githun is a web-based hosting service for git repos.
    \`\`\`
 
 4. **What is the significance of the 'README.md' file in a GitHub repository?**
