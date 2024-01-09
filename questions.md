@@ -21,6 +21,7 @@
 4. **What is the significance of the 'README.md' file in a GitHub repository?**
 
    \`\`\`
+   The file provides orientation for engineers browsing your code, especially first-time users.
    \`\`\`
 
 5. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
