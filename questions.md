@@ -27,6 +27,7 @@
 5. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
 
    \`\`\`
+   Githun forking is used to iterate on idea or changes before they are proposed back to the upstream repo, its a new repo that shares code and visibility settings from the original.
    \`\`\`
 
 6. **What is GitHub Actions, and how is it used in software development?**
