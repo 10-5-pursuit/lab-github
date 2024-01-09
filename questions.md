@@ -21,9 +21,9 @@
    GitHub's 'forking' feature allows users to create their own copies of repositories, primarily for contributing to open-source projects, experimenting with changes, or creating a starting point for new projects.
    
 6. **What is GitHub Actions, and how is it used in software development?**
-   \`\`\`\`
+   
    GitHub Actions is a feature for automating workflows and CI/CD in software development, helping with tasks like building, testing, and deploying code.
-   \`\`\`\`
+   
 7. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
    \`\`\`\`
    Microsoft acquired GitHub in 2018, leading to enhanced integration with Microsoft's tools and services and continued growth of GitHub as a popular platform.
