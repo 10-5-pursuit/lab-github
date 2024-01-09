@@ -6,8 +6,7 @@
 
 2. **What is a 'pull request' in the context of GitHub, and how is it commonly used?**
 
-   \`\`\`
-   \`\`\`
+   A pull request is a request to update the main repository of GitHub and is mainly used to collaborate with your peers to discuss changes before pushing them to the main branch.
 
 3. **Can you explain the difference between 'git' and 'GitHub'?**
 
