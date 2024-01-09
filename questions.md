@@ -57,5 +57,6 @@
 10. **What is GitHub Pages, and how can it be used to host web pages?**
 
     \`\`\`
+    GitHub Pages is a feature for hosting static websites from GitHub repositories, making it easy to create and share web content. Websites are automatically built and published from the repository's contents.
     \`\`\`
 
