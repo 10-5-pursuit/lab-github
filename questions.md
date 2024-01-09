@@ -30,8 +30,7 @@
 
 8. **What is a 'repository' in GitHub, and what are its key components?**
 
-   \`\`\`
-   \`\`\`
+   A repository in Github is your project. It typically contains a readme with directions , all your past and current code files as well as previous versions of your project.
 
 9. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
 
