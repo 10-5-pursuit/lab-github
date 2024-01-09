@@ -33,8 +33,7 @@ Pull requests let you tell others about changes you've pushed to a branch in a r
 
 9. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
 
-   \`\`\`
-   \`\`\`
+  Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. You always create a branch from an existing branch. Typically, you might create a new branch from the default branch of your repository.
 
 10. **What is GitHub Pages, and how can it be used to host web pages?**
 
