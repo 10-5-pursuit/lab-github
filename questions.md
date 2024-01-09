@@ -29,19 +29,21 @@ Github was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. 
 7. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
 
    \`\`\`
+   A fork is a new repository that shares code and visibility settings with the original “upstream” repository. Forks are often used to iterate on ideas or changes before they are proposed back to the upstream repository, such as in open source projects or when a user does not have write access to the upstream repository.
    \`\`\`
 
-8. **What is GitHub Actions, and how is it used in software development?**
+9. **What is GitHub Actions, and how is it used in software development?**
+
+   \`\`\`
+   GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your build, test, and deployment pipeline. You can create workflows that build and test every pull request to your repository, or deploy merged pull requests to production.
+   \`\`\`
+
+11. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
 
    \`\`\`
    \`\`\`
 
-9. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
-
-   \`\`\`
-   \`\`\`
-
-10. **What is a 'repository' in GitHub, and what are its key components?**
+11. **What is a 'repository' in GitHub, and what are its key components?**
 
    \`\`\`
    \`\`\`
