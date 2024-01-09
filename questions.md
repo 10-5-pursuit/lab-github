@@ -10,12 +10,11 @@
 
 3. **Can you explain the difference between 'git' and 'GitHub'?**
 
-  Git is a local tool for making and editing repositories on your own pc. GitHub is a way to link those repositories with your peers for collaborating on large projects.
+   Git is a local tool for making and editing repositories on your own pc. GitHub is a way to link those repositories with your peers for collaborating on large projects.
 
 4. **What is the significance of the 'README.md' file in a GitHub repository?**
 
-   \`\`\`
-   \`\`\`
+    Readme files help to explain what the project is, what you're doing in the repository what its for how it works. Any and all details the user may need when the open it up.
 
 5. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
 
