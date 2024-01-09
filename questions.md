@@ -9,6 +9,7 @@
 2. **What is a 'pull request' in the context of GitHub, and how is it commonly used?**
 
    \`\`\`
+   Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub it commonly used for following up.
    \`\`\`
 
 3. **Can you explain the difference between 'git' and 'GitHub'?**
