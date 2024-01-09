@@ -15,6 +15,7 @@
 3. **Can you explain the difference between 'git' and 'GitHub'?**
 
    \`\`\`
+   'Git' is a distributed version control system, while 'GitHub' is a web-based platform built around Git for hosting repositories, collaborating on projects, and managing code.
    \`\`\`
 
 4. **What is the significance of the 'README.md' file in a GitHub repository?**
