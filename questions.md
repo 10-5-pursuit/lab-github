@@ -17,9 +17,9 @@
    The 'README.md' file in a GitHub repository serves as project documentation, providing information on the project's purpose, usage, and installation instructions.
    
 5. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
-   \`\`\`\`
+   
    GitHub's 'forking' feature allows users to create their own copies of repositories, primarily for contributing to open-source projects, experimenting with changes, or creating a starting point for new projects.
-   \`\`\`\`
+   
 6. **What is GitHub Actions, and how is it used in software development?**
    \`\`\`\`
    GitHub Actions is a feature for automating workflows and CI/CD in software development, helping with tasks like building, testing, and deploying code.
