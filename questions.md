@@ -18,30 +18,29 @@
 
 5. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
 
-   \`\`\`
-   \`\`\`
-
-6. **What is GitHub Actions, and how is it used in software development?**
-
-   \`\`\`
-   \`\`\`
-
-7. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
+   GitHub forking feature is used to make a copy of your own project in order to make edits to then request later down the line without editing the main project.
+   
+7. **What is GitHub Actions, and how is it used in software development?**
 
    \`\`\`
    \`\`\`
 
-8. **What is a 'repository' in GitHub, and what are its key components?**
+8. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
 
    \`\`\`
    \`\`\`
 
-9. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
+9. **What is a 'repository' in GitHub, and what are its key components?**
 
    \`\`\`
    \`\`\`
 
-10. **What is GitHub Pages, and how can it be used to host web pages?**
+10. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
+
+   \`\`\`
+   \`\`\`
+
+11. **What is GitHub Pages, and how can it be used to host web pages?**
 
     \`\`\`
     \`\`\`
