@@ -45,6 +45,7 @@
 8. **What is a 'repository' in GitHub, and what are its key components?**
 
    \`\`\`
+   A GitHub 'repository' is a container for code and project assets, including source code, README.md, issues, pull requests, branches, actions, and settings.
    \`\`\`
 
 9. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
