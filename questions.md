@@ -50,6 +50,6 @@
 
 11. **What is GitHub Pages, and how can it be used to host web pages?**
 
-    \`\`\`GitHub Pages are public webpages hosted and published through GitHub. test
+    \`\`\`GitHub Pages are public webpages hosted and published through GitHub.
     \`\`\`
 
