@@ -29,9 +29,9 @@
    Microsoft acquired GitHub in 2018, leading to enhanced integration with Microsoft's tools and services and continued growth of GitHub as a popular platform.
    
 8. **What is a 'repository' in GitHub, and what are its key components?**
-   \`\`\`\`
+   
    A GitHub 'repository' is a container for code and project assets, including source code, README.md, issues, pull requests, branches, actions, and settings.
-   \`\`\`\`
+   
 9. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
    \`\`\`\`
    'Branching' in GitHub allows multiple developers to work on different aspects of a project simultaneously, keeping their changes separate until they are ready to be merged, improving collaboration and code quality.
