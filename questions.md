@@ -21,19 +21,20 @@ Git is a version control system that allows developers to track changes in their
 7. **What is the significance of the 'README.md' file in a GitHub repository?**
 
    \`\`\`
+   The README file communicates important information about your file.
    \`\`\`
 
-8. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
-
-   \`\`\`
-   \`\`\`
-
-9. **What is GitHub Actions, and how is it used in software development?**
+9. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
 
    \`\`\`
    \`\`\`
 
-10. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
+10. **What is GitHub Actions, and how is it used in software development?**
+
+   \`\`\`
+   \`\`\`
+
+11. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
 
    \`\`\`
    \`\`\`
