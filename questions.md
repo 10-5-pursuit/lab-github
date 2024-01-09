@@ -13,9 +13,9 @@
    'Git' is a distributed version control system, while 'GitHub' is a web-based platform built around Git for hosting repositories, collaborating on projects, and managing code.
    
 4. **What is the significance of the 'README.md' file in a GitHub repository?**
-   \`\`\`\`
+   
    The 'README.md' file in a GitHub repository serves as project documentation, providing information on the project's purpose, usage, and installation instructions.
-   \`\`\`\`
+   
 5. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
    \`\`\`\`
    GitHub's 'forking' feature allows users to create their own copies of repositories, primarily for contributing to open-source projects, experimenting with changes, or creating a starting point for new projects.
