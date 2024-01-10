@@ -27,6 +27,7 @@ Pull requests lets you tell others about the changes you've pushed to a branch i
 5. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
 
    \`\`\`
+   A fork is a new repository that shares code and is used to iterate ones own ideas or changes ...
    \`\`\`
 
 6. **What is GitHub Actions, and how is it used in software development?**
