@@ -57,6 +57,6 @@ Pull requests lets you tell others about the changes you've pushed to a branch i
 10. **What is GitHub Pages, and how can it be used to host web pages?**
 
     \`\`\`
-   <!-- GitHub Pages publishes any static files that you push to your repository. You can create your own static files or use a static site generator to build your site for you. You can also customize your own build process locally or on another server. -->
+   GitHub Pages publishes any static files that you push to your repository. You can create your own static files or use a static site generator to build your site for you. You can also customize your own build process locally or on another server.
     \`\`\`
 
