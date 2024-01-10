@@ -26,8 +26,7 @@
 
 7. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
 
-   \`\`\`
-   \`\`\`
+   Acquired by Microsoft, one of the biggest changes has been a major shift around how GitHub handles private repositories. In the past, free users had a limited number of repositories and needed to shift to a Pro subscription if they wanted more.
 
 8. **What is a 'repository' in GitHub, and what are its key components?**
 
