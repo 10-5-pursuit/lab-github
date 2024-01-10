@@ -18,8 +18,7 @@
 
 5. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
 
-   \`\`\`
-   \`\`\`
+   A fork is a new repository that shares code and visibility settings with the original “upstream” repository. Forks are often used to iterate on ideas or changes before they are proposed back to the upstream repository, such as in open source projects or when a user does not have write access to the upstream repository.
 
 6. **What is GitHub Actions, and how is it used in software development?**
 
