@@ -2,19 +2,15 @@
 
 1. **When was GitHub first launched, and who were its original founders?**
 
-   \`\`\`
-   \`\`\`
+    It was founded in April 2008 
+   The founders are: Tom preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon
 
 2. **What is a 'pull request' in the context of GitHub, and how is it commonly used?**
 
-   \`\`\`
-   \`\`\`
-
+ A pull request is a request to merge changes from one branch too another
 3. **Can you explain the difference between 'git' and 'GitHub'?**
-
-   \`\`\`
-   \`\`\`
-
+Git is a version control system that allows developers to track changes in their code. GitHub is a web-based hosting service for git repositories
+ 
 4. **What is the significance of the 'README.md' file in a GitHub repository?**
 
    \`\`\`
