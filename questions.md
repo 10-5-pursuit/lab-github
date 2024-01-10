@@ -6,15 +6,16 @@
    The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon 
    \`\`\`
 
-3. **What is a 'pull request' in the context of GitHub, and how is it commonly used?**
+2. **What is a 'pull request' in the context of GitHub, and how is it commonly used?**
 
    \`\`\`
 Pull requests lets you tell others about the changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss the potential changes with collaborators and add other commits before your changes are merged.
    \`\`\`
 
-5. **Can you explain the difference between 'git' and 'GitHub'?**
+3. **Can you explain the difference between 'git' and 'GitHub'?**
 
    \`\`\`
+   Git is a LOCAL version control system that allows developers to track changes in their code. Versus github where it is a REMOTE version control system that allows developers to track changes in their code.
    \`\`\`
 
 6. **What is the significance of the 'README.md' file in a GitHub repository?**
