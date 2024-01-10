@@ -16,7 +16,7 @@
 3. **Can you explain the difference between 'git' and 'GitHub'?**
 
    \`\`\`
-   
+   Git is a version control system that allows developers to track changes in their code. GitHub is a web-based hosting service for git repositories. In simple terms, you can use git without Github, but you cannot use GitHub without Git.
    \`\`\`
 
 4. **What is the significance of the 'README.md' file in a GitHub repository?**
