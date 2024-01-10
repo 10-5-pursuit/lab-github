@@ -45,15 +45,18 @@ Pull requests lets you tell others about the changes you've pushed to a branch i
 8. **What is a 'repository' in GitHub, and what are its key components?**
 
    \`\`\`
+   A repository is the most basic element of GitHub. It's a place where you can store your code, your files, and each file's revision history. Repositories can have multiple collaborators and can be either public or private.
    \`\`\`
 
 9. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
 
    \`\`\`
+   Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. You always create a branch from an existing branch. Typically, you might create a new branch from the default branch of your repository.
    \`\`\`
 
 10. **What is GitHub Pages, and how can it be used to host web pages?**
 
     \`\`\`
+   GitHub Pages publishes any static files that you push to your repository. You can create your own static files or use a static site generator to build your site for you. You can also customize your own build process locally or on another server.
     \`\`\`
 
