@@ -42,11 +42,13 @@ Additionally, GitHub repositories are open to the public. Developers worldwide c
 10. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
 
    \`\`\`
+   Microsoft acquired GitHub in 2018 for $7.5 billion in Microsoft stock.  This impacts the platforms tools such as project 'Paper Cut' which they hopes will help address some of the gripes that its developer-users might have with how GitHub works that the company itself hadn’t been planning to address in bigger product upgrades. The idea here is that GitHub can either help find workarounds, or this will become a feedback forum of its own to help figure out what it should be upgrading next on the site.  Their main focus seems to be on customer retention by showing itself as a OpenSource supporter - "Previously anything MS was considered as commercial license but lately MS has opened up itself with a lot of technologies(like TypeScript), tools(like VSCode editor) and this is a bigger move to show their support and also embrace the technology that might become an option in the enterprise versions of code management." 
    \`\`\`
 
 11. **What is a 'repository' in GitHub, and what are its key components?**
 
    \`\`\`
+  
    \`\`\`
 
 11. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
