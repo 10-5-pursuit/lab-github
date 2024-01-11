@@ -11,7 +11,7 @@ Pull requests let you tell others about changes you've pushed to a branch in a r
    \`\`\`
 
 3. **Can you explain the difference between 'git' and 'GitHub'?**
-
+Git is a version control system that allows developers to track changes in their code. GitHub is a web-based hosting service for git repositories. In simple terms, you can use git without Github, but you cannot use GitHub without Git.
    \`\`\`
    \`\`\`
 
