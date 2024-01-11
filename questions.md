@@ -6,7 +6,7 @@ GitHub first launched in 2008, and the orginal founders were Chris Wanstrath, P.
    \`\`\`
 
 2. **What is a 'pull request' in the context of GitHub, and how is it commonly used?**
-
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
    \`\`\`
    \`\`\`
 
