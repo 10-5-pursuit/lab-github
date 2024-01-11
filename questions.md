@@ -15,29 +15,35 @@
 5. **Can you explain the difference between 'git' and 'GitHub'?**
 
    \`\`\`
-   \`\`\`
+   'git' is a free, high-quality distributed version control system (VCS) suitable for tracking modifications in source code in software development.  git is local, github is remote. 
+ 'Github' is a web-based Git repository. This hosting service has cloud-based storage and offers all distributed version control and source code management functionality of Git while adding its own features. It makes it easier to collaborate using Git. 
 
-6. **What is the significance of the 'README.md' file in a GitHub repository?**
+Additionally, GitHub repositories are open to the public. Developers worldwide can interact and contribute to one another’s code, modify or improve it, making GitHub a networking site for web professionals. The process of interaction and contribution is also called social coding.
 
-   \`\`\`
-   \`\`\`
-
-7. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
 
    \`\`\`
-   \`\`\`
 
-8. **What is GitHub Actions, and how is it used in software development?**
+7. **What is the significance of the 'README.md' file in a GitHub repository?**
 
    \`\`\`
    \`\`\`
 
-9. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
+8. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
 
    \`\`\`
    \`\`\`
 
-10. **What is a 'repository' in GitHub, and what are its key components?**
+9. **What is GitHub Actions, and how is it used in software development?**
+
+   \`\`\`
+   \`\`\`
+
+10. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
+
+   \`\`\`
+   \`\`\`
+
+11. **What is a 'repository' in GitHub, and what are its key components?**
 
    \`\`\`
    \`\`\`
