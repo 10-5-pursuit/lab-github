@@ -36,14 +36,15 @@ Additionally, GitHub repositories are open to the public. Developers worldwide c
 8. **What is GitHub Actions, and how is it used in software development?**
 
    \`\`\`
+   GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your build, test, and deployment pipeline.  You can create workflows that build and test every pull request to your repository, or deploy merged pull requests to production.  An action is a custom application for the GitHub Actions platform that performs a complex but frequently repeated task.  Use an action to help reduce the amount of repetitive code that you write in your workflow files.  An action can pull your git repository from GitHub, set up the correct toolchain for your build environment, or set up the authentication to your cloud provider.  You can write your own actions, or you can find actions to use in your workflows in the GitHub Marketplace.
    \`\`\`
 
-9. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
+10. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
 
    \`\`\`
    \`\`\`
 
-10. **What is a 'repository' in GitHub, and what are its key components?**
+11. **What is a 'repository' in GitHub, and what are its key components?**
 
    \`\`\`
    \`\`\`
