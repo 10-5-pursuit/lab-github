@@ -16,7 +16,7 @@ Git is a version control system that allows developers to track changes in their
    \`\`\`
 
 4. **What is the significance of the 'README.md' file in a GitHub repository?**
-
+You can add a README file to a repository to communicate important information about your project. A README, along with a repository license, citation file, contribution guidelines, and a code of conduct, communicates expectations for your project and helps you manage contributions.
    \`\`\`
    \`\`\`
 
