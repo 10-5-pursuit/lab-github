@@ -46,6 +46,7 @@
 8. **What is a 'repository' in GitHub, and what are its key components?**
 
    \`\`\`
+   A repository in GitHub is a place where you can store code, your files and each files revision history. Repositories allow for multiple collaborators or it can be private. 
    \`\`\`
 
 9. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
