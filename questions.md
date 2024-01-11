@@ -36,7 +36,7 @@ Microsoft's acquisition of GitHub has received regulatory approval and is now of
    \`\`\`
 
 8. **What is a 'repository' in GitHub, and what are its key components?**
-
+A repository is the most basic element of GitHub. It's a place where you can store your code, your files, and each file's revision history. Repositories can have multiple collaborators and can be either public, internal, or private.
    \`\`\`
    \`\`\`
 
