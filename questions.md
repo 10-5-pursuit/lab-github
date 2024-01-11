@@ -41,7 +41,7 @@ A repository is the most basic element of GitHub. It's a place where you can sto
    \`\`\`
 
 9. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
-
+Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. You always create a branch from an existing branch. Typically, you might create a new branch from the default branch of your repository.
    \`\`\`
    \`\`\`
 
