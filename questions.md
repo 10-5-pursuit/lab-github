@@ -46,7 +46,7 @@ Branches allow you to develop features, fix bugs, or safely experiment with new 
    \`\`\`
 
 10. **What is GitHub Pages, and how can it be used to host web pages?**
-
+GitHub Pages are public webpages hosted and published through GitHub. The quickest way to get up and running is by using the Jekyll Theme Chooser to load a pre-made theme. You can then modify your GitHub Pages' content and style. This guide will lead you through creating a user site at username.github.io .
     \`\`\`
     \`\`\`
 
