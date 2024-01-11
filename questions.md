@@ -9,39 +9,40 @@
 3. **What is a 'pull request' in the context of GitHub, and how is it commonly used?**
 
    \`\`\`
+   A 'pull request' is a proposal to merge a set of changes from one branch into another. It's commonly used amongst collaborators to review and discuss potential changes.  It's imperative to use this feature when working on a group project because it puts measures in place to prevent teammates from merging unintentional changes to the main/base code/program.
    \`\`\`
 
-4. **Can you explain the difference between 'git' and 'GitHub'?**
-
-   \`\`\`
-   \`\`\`
-
-5. **What is the significance of the 'README.md' file in a GitHub repository?**
+5. **Can you explain the difference between 'git' and 'GitHub'?**
 
    \`\`\`
    \`\`\`
 
-6. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
+6. **What is the significance of the 'README.md' file in a GitHub repository?**
 
    \`\`\`
    \`\`\`
 
-7. **What is GitHub Actions, and how is it used in software development?**
+7. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
 
    \`\`\`
    \`\`\`
 
-8. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
+8. **What is GitHub Actions, and how is it used in software development?**
 
    \`\`\`
    \`\`\`
 
-9. **What is a 'repository' in GitHub, and what are its key components?**
+9. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
 
    \`\`\`
    \`\`\`
 
-10. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
+10. **What is a 'repository' in GitHub, and what are its key components?**
+
+   \`\`\`
+   \`\`\`
+
+11. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
 
    \`\`\`
    \`\`\`
