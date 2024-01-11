@@ -21,7 +21,7 @@ You can add a README file to a repository to communicate important information a
    \`\`\`
 
 5. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
-
+A fork can be owned by either a personal account or an organization. When you view a forked repository on GitHub, the upstream repository is indicated below the name of the fork. In open source projects, forks are often used to iterate on ideas or changes before incorporating the changes into the upstream repository.
    \`\`\`
    \`\`\`
 
