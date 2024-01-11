@@ -54,6 +54,7 @@ Additionally, GitHub repositories are open to the public. Developers worldwide c
 11. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
 
    \`\`\`
+   Branches allow us to develop features, fix bugs, or safely experiment with new ideas in a contained area of our repository.  You create an original file, and then make a copy aka "branch off".  Branches are important for collaborative projects, because each individual can work on thier part of the project without disrupting the base.  One can also track the individual changes that the collaborator inserts.  [*learn more: A branch you create to build a feature is commonly referred to as a feature branch or topic branch.]
    \`\`\`
 
 11. **What is GitHub Pages, and how can it be used to host web pages?**
