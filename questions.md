@@ -1,7 +1,7 @@
 # GitHub Practice Questions
 
 1. **When was GitHub first launched, and who were its original founders?**
-
+GitHub first launched in 2008, and the orginal founders were Chris Wanstrath, P. J. Hyett, and Scott Chacon.
    \`\`\`
    \`\`\`
 
