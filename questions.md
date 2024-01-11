@@ -58,5 +58,6 @@
 10. **What is GitHub Pages, and how can it be used to host web pages?**
 
     \`\`\`
+    GitHub pages are publishes of static files that you push to your repository. You can create your own or use static site generator to build upon your site for you and you can customize your own build process either locally or from another server. 
     \`\`\`
 
