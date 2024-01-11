@@ -48,7 +48,7 @@ Additionally, GitHub repositories are open to the public. Developers worldwide c
 11. **What is a 'repository' in GitHub, and what are its key components?**
 
    \`\`\`
-  
+   A repository is a place where you can store your code, files, and each file's revision history.  Repositories can have multiple collaborators and can be either public or private. 
    \`\`\`
 
 11. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
