@@ -30,24 +30,25 @@ Additionally, GitHub repositories are open to the public. Developers worldwide c
 6. **How does GitHub's 'forking' feature work, and what is its primary purpose?**
 
    \`\`\`
+   Github's 'forking' feature allows us to create a copy of the document.  It's primary purpose is to propose changes to the upstream repository. 
    \`\`\`
 
-7. **What is GitHub Actions, and how is it used in software development?**
-
-   \`\`\`
-   \`\`\`
-
-8. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
+8. **What is GitHub Actions, and how is it used in software development?**
 
    \`\`\`
    \`\`\`
 
-9. **What is a 'repository' in GitHub, and what are its key components?**
+9. **Who acquired GitHub in 2018, and what impact did this acquisition have on the platform?**
 
    \`\`\`
    \`\`\`
 
-10. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
+10. **What is a 'repository' in GitHub, and what are its key components?**
+
+   \`\`\`
+   \`\`\`
+
+11. **Explain the concept of 'branching' in GitHub. Why is it important for collaborative projects?**
 
    \`\`\`
    \`\`\`
